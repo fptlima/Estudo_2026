@@ -8,7 +8,7 @@ DNS (O catálogo da rede): Quando você digita google.com, o navegador faz uma b
 A "Porta" de Entrada: Por padrão, a comunicação HTTP acontece na porta 80.
 
 📄 2. O Protocolo HTTP (Hypertext Transfer Protocol)
-O HTTP é a linguagem que permite a transferência de documentos hipermídia, como o HTML.
+HTTP é um protocolo que define regras para troca de dados entre cliente e servidor, principalmente documentos hipermídia (HTML, CSS, JS, JSON etc.).
 
 Stateless (Sem Estado): O HTTP é nativamente um protocolo "sem memória". Isso significa que o servidor não guarda dados entre uma requisição e outra; cada conexão é tratada como se fosse a primeira.
 
